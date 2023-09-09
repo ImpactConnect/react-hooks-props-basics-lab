@@ -10,3 +10,4 @@ const user = {
 };
 
 export default user;
+// export { name, city, bio, linkedin, github };
